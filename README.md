@@ -1,10 +1,8 @@
-# TEST
+# Git commands
+git config --global user.name "Santosh Panda"
 
-This is a Graduate level GIS Python programming class
+git config --global user.email "SkPanda@alaska.edu"
 
-## Lectures
+git config --global --list
 
-All lectures will be posted here.
-
-## Labs
-
+git clone 
