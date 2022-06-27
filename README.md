@@ -18,15 +18,15 @@ Website Template: https://html5up.net/
 [pages.github.com](https://pages.github.com/)
 
 Conda Commands:
-conda info
-conda list
-conda env list
-conda update -n base conda
-conda create -n ENVNAME python
-conda create -n ENVNAME python=3.9
-conda activate ENVNAME
-conda deactivate
-conda remove -n ENVNAME --all
-conda install PKG -c conda-forge
-conda install PKG=3.14 -c conda-forge
-conda uninstall PKG -n ENVNAME
+- conda info
+- conda list
+- conda env list
+- conda update -n base conda
+- conda create -n ENVNAME python
+- conda create -n ENVNAME python=3.9
+- conda activate ENVNAME
+- conda deactivate
+- conda remove -n ENVNAME --all
+- conda install PKG -c conda-forge
+- conda install PKG=3.14 -c conda-forge
+- conda uninstall PKG -n ENVNAME
