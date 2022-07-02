@@ -32,4 +32,5 @@ Conda Commands:
 - conda uninstall PKG -n ENVNAME
 
 sharex.com (take a screenshot, upload it to imgur.com and use the url)
-Insert a screenshot: `![](url)`
+
+Insert a screenshot: `![](url)`[](url)
