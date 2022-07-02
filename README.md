@@ -30,3 +30,5 @@ Conda Commands:
 - conda install PKG -c conda-forge
 - conda install PKG=3.14 -c conda-forge
 - conda uninstall PKG -n ENVNAME
+
+sharex.com (take a screenshot, upload it to imgur.com and use the url)
