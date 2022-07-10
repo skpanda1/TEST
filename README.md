@@ -34,3 +34,5 @@ Conda Commands:
 sharex.com (take a screenshot, upload it to imgur.com and use the url)
 
 Insert a screenshot: `![](url)`[](url)
+
+To activate a conda env in VSC termial: `conda init powershell`
