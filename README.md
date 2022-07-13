@@ -38,3 +38,7 @@ Insert a screenshot: `![](url)`[](url)
 To activate a conda env in VSC termial: `conda init powershell`
 
 `cls` to clear previous commands from the terminal
+
+py-pkgs.org (online book)
+
+add  1s to 'github1s.com' to see the Github repo in VSC
